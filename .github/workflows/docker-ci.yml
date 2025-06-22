@@ -37,4 +37,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: polankisravya/cicd-demo:latest
+          tags: abhinayagoli/project-1:latest
