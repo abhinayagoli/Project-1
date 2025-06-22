@@ -37,4 +37,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: abhinayagoli/project-1:latest
+          tags: abhinaya2427/project-1:latest
